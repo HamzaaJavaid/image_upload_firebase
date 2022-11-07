@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299795069968",
+    "project_id": "upload-image-7fa98",
+    "storage_bucket": "upload-image-7fa98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299795069968:android:06c5fd65f46a3d81e49e95",
+        "android_client_info": {
+          "package_name": "com.example.google_classroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299795069968-f0okc5pc8tkl94vlftt8rh5s60prns67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4n0_KlNWB-bc8Hbpd4HjyU3Z1AdqjxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299795069968-f0okc5pc8tkl94vlftt8rh5s60prns67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
